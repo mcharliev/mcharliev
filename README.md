@@ -2,29 +2,13 @@
  
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Merdan! Welcome to my GitHub profile!</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5ODI2NjdhMzQwZmQ2NzAzNGJjMTRmNTY3MGYxYWMzZDc3ODFmMSZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="600"      height="300"/>
-</div>
-
----
-
-<!-- ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+backend+developer)](https://git.io/typing-svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseypetkun&label=Profile%20views&color=0e75b6&style=flat" alt="alekseypetkun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekseypetkun" alt="alekseypetkun" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [public projects](https://github.com/AlekseyPetkun?tab=repositories "repositories")
+- 👨‍💻 All of my projects are available at [public projects](https://github.com/mcharliev?tab=repositories "repositories")
 
 - 📫 How to reach me:
 
-[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id54492782)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/lngermanland) 
-[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:2710aleksey@gmail.com)
+[![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id10349959)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/MerdanCharliev) 
+[![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:mcharliev@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
