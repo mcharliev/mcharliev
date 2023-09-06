@@ -9,14 +9,14 @@
 [![VK Badge](https://img.shields.io/badge/-ВКонтакте-blue?style=for-the-badge&logo=VK&logoColor=white "VK")](https://vk.com/id10349959)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/MerdanCharliev) 
 [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:mcharliev@gmail.com)
-
+[![LeetCode user mcharliev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmcharliev&logo=leetcode&logoColor=yellow)](https://leetcode.com/mcharliev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://leetcode.com/mcharliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="2710aleksey" height="30" width="40" /></a>
+<a href="https://leetcode.com/mcharliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="mcharliev" height="30" width="40" /></a>
 </p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=2710aleksey&theme=dark)](https://github.com/AlekseyPetkun/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mcharliev&theme=dark)](https://github.com/mcharliev/leetcode-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
