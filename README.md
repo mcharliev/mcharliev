@@ -2,7 +2,7 @@
  
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Merdan! Welcome to my GitHub profile!</h1>
 I am an economist by education, but when I discovered programming, I can't stop coding anymore!  
-Currently, I'm engaged in Java and Spring development 👩‍💻
+Currently, I'm engaged in Java and Spring development
 
 - 👨‍💻 All of my projects are available at [public projects](https://github.com/mcharliev?tab=repositories "repositories")
 
