@@ -11,22 +11,12 @@
 [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:mcharliev@gmail.com)
 [![LeetCode user mcharliev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmcharliev&logo=leetcode&logoColor=yellow)](https://leetcode.com/mcharliev/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://leetcode.com/mcharliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="mcharliev" height="30" width="40" /></a>
-</p>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mcharliev&theme=dark)](https://github.com/mcharliev/leetcode-stats)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java" alt="java" width="80" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a> 
  <a href="https://swagger.io" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/kd/371533/svg/371533.svg" title="Swagger" alt="swagger" width="40" height="40"/> </a> 
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" title="Spring Framework" alt="spring" width="80" height="40"/> </a> 
- <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" title="HTML5" alt="HTML" width="80" height="40"/>&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/liquibase/images/bd2ff83d-5758-4629-ad54-b1de6f15c7c1.svg" title="Liquibase" alt="Liquibase" width="80" height="40"/>&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/flywaydb/images/b336d129-8bbb-48b4-bed0-55ddd690cef4.svg" title="Flyway" alt="Flyway" width="40" height="40"/>&nbsp;
   <img src="https://upload.vectorlogo.zone/logos/apache_maven/images/bf250be6-ab7f-4191-b421-8d0acb1dc6e4.svg" title="Maven" alt="Maven" width="80" height="40"/>&nbsp;
@@ -36,28 +26,3 @@
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" title="Docker" alt="docker" width="50" height="40"/> </a> 
 </p>
 
----
-
-## My stats:
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseypetkun&show_icons=true&locale=en&layout=compact" alt="alekseypetkun" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekseypetkun&show_icons=true&locale=en" alt="alekseypetkun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alekseypetkun&" alt="alekseypetkun" /></p>
-
-
-<!--
-**Aleksey2710/Aleksey2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
