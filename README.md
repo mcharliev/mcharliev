@@ -12,7 +12,8 @@
 [![LeetCode user mcharliev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmcharliev&logo=leetcode&logoColor=yellow)](https://leetcode.com/mcharliev/)
 
 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java" alt="java" width="80" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="postman" width="40" height="40"/> </a> 
