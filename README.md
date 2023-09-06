@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/2710aleksey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="2710aleksey" height="30" width="40" /></a>
+<a href="https://leetcode.com/mcharliev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" title="LeetCode" alt="2710aleksey" height="30" width="40" /></a>
 </p>
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=2710aleksey&theme=dark)](https://github.com/AlekseyPetkun/leetcode-stats)
