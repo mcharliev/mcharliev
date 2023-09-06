@@ -10,7 +10,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white "Telegram")](https://t.me/MerdanCharliev) 
 [![Gmail  Badge](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white "Gmail")](mailto:mcharliev@gmail.com)
 [![LeetCode user mcharliev](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmcharliev&logo=leetcode&logoColor=yellow)](https://leetcode.com/mcharliev/)
-https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fmcharliev&logo=leetcode&logoColor=yellow
+
 
 
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" title="Java" alt="java" width="80" height="40"/> </a> 
