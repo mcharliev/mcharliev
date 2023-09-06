@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ2ZTUxNGNjNWU2ZGU0OTgxMDc0ODdhZTJiODM3MGExYjYxMTFiZCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Aleksey! Welcome to my GitHub profile!</h1>
+<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/StanGirard/StanGirard/master/wave.gif" width="30px">, I'm Merdan! Welcome to my GitHub profile!</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjg5ODI2NjdhMzQwZmQ2NzAzNGJjMTRmNTY3MGYxYWMzZDc3ODFmMSZjdD1n/dWesBcTLavkZuG35MI/giphy.gif" width="600"      height="300"/>
